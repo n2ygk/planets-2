@@ -3,6 +3,7 @@ Docked to spacestation and ready for the final sling
 On the way to mars
 Closing to mars for landing
 I prefer traveling to the moon.
+I'd like to add a new feature for a stop at the Moon on the way to Mars.
 I would also join you after mars trip
 I am conflict-averse. Maybe I'll join you on Mars.
 This is from RStudio
